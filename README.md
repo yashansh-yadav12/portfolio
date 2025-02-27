@@ -8,9 +8,9 @@
 
 ## 🛠️ Skills
 
-- **Programming:** Python, JavaScript, Java, C++
+- **Programming:** Python, Java, C
 - **Web Development:** React, Node.js, Express, Next.js
-- **Databases:** PostgreSQL, MongoDB, Firebase
+- **Databases:** MySQL, MongoDB, Firebase
 - **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD
 - **Tools:** Git, GitHub, VS Code, Postman
 
@@ -18,10 +18,10 @@
 
 ## 🌟 Projects
 
-### 🔹 [Project Name](https://github.com/yourusername/project)
-**📌 Description:** Briefly describe the project.  
-**🛠 Tech Used:** Python, Flask, PostgreSQL  
-**🔗 GitHub Repo:** [Click Here](https://github.com/yourusername/project)  
+### 🔹 [Hotel Booking Ticket Cancellation Prediction](https://github.com/yashansh-yadav12/Hotel_booking_cancellation_Prediction)
+**📌 Description:** Developed ETL Pipeline to get featurised data. Built various cross-validated ML models to get highest precision of around 0.84 for Random Forest model for predictive modelling of cancellation of ticket.  
+**🛠 Tech Used:** Python, Jupyter Notebook, Scikit-Learn, Seaborn  
+**🔗 GitHub Repo:** [Click Here](https://github.com/yashansh-yadav12/Hotel_booking_cancellation_Prediction)  
 **🌐 Live Demo:** [Demo Link](https://project-demo.com)
 
 ### 🔹 [Another Project](https://github.com/yourusername/another-project)
