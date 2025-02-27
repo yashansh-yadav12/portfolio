@@ -66,17 +66,17 @@
 
 ## 📊 Certifications  
 
-✅ **Google Data Analytics Certification** - [View Credential](https://certificate-link.com)  
-✅ **IBM Data Science Professional Certificate** - [View Credential](https://certificate-link.com)  
+✅ **Data Science Training Program by Internz Learn** - [View Credential](https://drive.google.com/file/d/1vQCM5RxfMXB6qOsRVGv2LaHmgCXs9vti/view)  
+✅ **Tableau - Data Visualization and Dashboard Creation by Great Learning** - [View Credential](https://olympus.mygreatlearning.com/courses/12391/certificate)  
 ✅ **SQL for Data Science - Coursera** - [View Credential](https://certificate-link.com)  
 
 ---
 
 ## 📫 Contact  
 
-📧 Email: [your@email.com](mailto:your@email.com)  
+📧 Email: [your@email.com](mailto:yashansh0497@gmail.com)  
 🌍 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
-🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/yashansh-yadav/)  
 
 ---
 
