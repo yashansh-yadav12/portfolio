@@ -1,4 +1,4 @@
-# 💼 [Yashansh Yadav] - Portfolio
+# 💼 Yashansh Yadav - Portfolio
 
 🚀 Software Developer | Open Source Contributor | Tech Enthusiast  
 
