@@ -1,8 +1,8 @@
 # 💼 Yashansh Yadav - Portfolio
 
-🚀 Software Developer | Open Source Contributor | Tech Enthusiast  
+🚀 Data Scientist | Data Analyst | Machine Learning Enthusiast  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/yashansh-yadav/) | 🌐 [Personal Website](https://yourwebsite.com) | 📩 [Email](mailto:your@email.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/yashansh-yadav/) | 🌐 [Personal Website](https://yourwebsite.com) | 📩 [Email](mailto:yashansh0497@email.com)
 
 ---
 
