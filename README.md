@@ -27,11 +27,10 @@
 
 ---
 
-### 🔹 [Customer Churn Prediction](https://github.com/yourusername/customer-churn)  
-**📌 Description:** Built a predictive model to analyze customer churn using **Random Forest & XGBoost**.  
+### 🔹 [Flight Price Prediction](https://github.com/yashansh-yadav12/Flight_Price_Prediction)  
+**📌 Description:** Performed exploratory data analysis to come up with some business insights. **Hypertuned Random Forest Regressor** to get optimum parameter of ML model for regression of price.  
 **📊 Tools Used:** Python, Pandas, Scikit-learn, Matplotlib, Power BI  
-**🔗 GitHub Repo:** [View Project](https://github.com/yourusername/customer-churn)  
-**📊 Live Dashboard:** [Power BI Dashboard](https://yourdashboard-link.com)  
+**🔗 GitHub Repo:** [View Project](https://github.com/yashansh-yadav12/Flight_Price_Prediction)  
 
 ---
 
