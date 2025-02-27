@@ -52,18 +52,15 @@
 
 ## 💼 Work Experience  
 
-### 🚀 Data Scientist | [Company Name](https://company-website.com)  
-📆 **Duration:** 2022 - Present  
-- Built **machine learning models** to improve customer segmentation.  
-- Optimized SQL queries and **created interactive dashboards** in Tableau.  
-- Automated **ETL pipelines** for real-time data analysis.  
+### 🚀 VBA Intership | [Ve Commercial Vehicles Limited( A Jv Between Eicher & Volvo Limited)](https://www.vecv.in/)  
+📆 **Duration:** 2018 - 3 months  
+- Mathematical Analysis of Air-Brakes using Visual Basic Applications (VBA) in Excel
 
 ---
 
 ## 🎓 Education  
 
-🎓 **Master’s in Data Science** - XYZ University (2020 - 2022)  
-🎓 **Bachelor’s in Computer Science** - ABC University (2016 - 2020)  
+🎓 **B-Tech + M-Tech in Mechanical Engineering** - IIT Ropar, Punjab (2016 - 2021)  
 
 ---
 
