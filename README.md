@@ -8,17 +8,22 @@
 
 ## 🛠️ Technical Skills  
 
-- **Programming Languages:** Python, R, SQL  
-- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch  
+- **Programming Languages:** Python, SQL, Java, C, VBA in Excel  
+- **Machine Learning:** Scikit-learn, Pandas, Numpy  
 - **Data Visualization:** Matplotlib, Seaborn, Power BI, Tableau  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
-- **Big Data & Cloud:** Spark, Hadoop, AWS, GCP  
-- **Statistical Analysis:** Hypothesis Testing, A/B Testing, Regression Analysis  
+- **Databases:** MySQL    
+- **Statistical Analysis:** Regression Analysis  
 - **Business Intelligence:** Data Cleaning, Data Wrangling, Dashboarding  
 
 ---
 
 ## 📈 Featured Projects  
+
+### 🔹 [Customer Churn Prediction](https://github.com/yourusername/customer-churn)  
+**📌 Description:** Built a predictive model to analyze customer churn using **Random Forest & XGBoost**.  
+**📊 Tools Used:** Python, Pandas, Scikit-learn, Matplotlib, Power BI  
+**🔗 GitHub Repo:** [View Project](https://github.com/yourusername/customer-churn)  
+**📊 Live Dashboard:** [Power BI Dashboard](https://yourdashboard-link.com)  
 
 ### 🔹 [Customer Churn Prediction](https://github.com/yourusername/customer-churn)  
 **📌 Description:** Built a predictive model to analyze customer churn using **Random Forest & XGBoost**.  
