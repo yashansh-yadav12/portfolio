@@ -9,7 +9,8 @@
 ## 🛠️ Technical Skills  
 
 - **Programming Languages:** Python, SQL, Java, C, VBA in Excel  
-- **Machine Learning:** Scikit-learn, Pandas, Numpy  
+- **Machine Learning:** Scikit-learn, Pandas, Numpy
+- **Interactive Web Applications:** Jupyter Notebook
 - **Data Visualization:** Matplotlib, Seaborn, Power BI, Tableau  
 - **Databases:** MySQL    
 - **Statistical Analysis:** Regression Analysis  
