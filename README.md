@@ -2,7 +2,7 @@
 
 🚀 Software Developer | Open Source Contributor | Tech Enthusiast  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) | 🌐 [Personal Website](https://yourwebsite.com) | 📩 [Email](mailto:your@email.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/yashansh-yadav/) | 🌐 [Personal Website](https://yourwebsite.com) | 📩 [Email](mailto:your@email.com)
 
 ---
 
