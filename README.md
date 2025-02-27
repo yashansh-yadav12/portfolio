@@ -79,18 +79,3 @@
 🔗 LinkedIn: [https://www.linkedin.com/in/yashansh-yadav/](https://www.linkedin.com/in/yashansh-yadav/)  
 
 ---
-
-## **📌 Step 3: Customize GitHub Profile README (Optional)**
-To **enhance your profile**, create a **special GitHub repository** named **`yourusername`** and add a README file.
-
-```md
-# 👋 Hi, I'm [Your Name]!  
-
-🔍 **Data Scientist & Analyst** passionate about uncovering insights from data.  
-
-🌱 **Currently Learning:** Deep Learning, Cloud ML Platforms  
-🚀 **Open to:** Data Science, AI, and Business Intelligence roles  
-
-📊 **Check out my work:**  
-- [🛠 GitHub Portfolio](https://github.com/yourusername)  
-- [🌍 Personal Website](https://yourwebsite.com)  
