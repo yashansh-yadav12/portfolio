@@ -1,6 +1,6 @@
 # 💼 Yashansh Yadav - Portfolio
 
-🚀 Data Scientist | Data Analyst | Machine Learning Enthusiast  
+📈 Aspiring Data Scientist | 📊 Passionate Data Analyst | 🌐 Open to Opportunities | Machine Learning Enthusiast  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/yashansh-yadav/) | 🌐 [Personal Website](https://yourwebsite.com) | 📩 [Email](mailto:yashansh0497@email.com)
 
