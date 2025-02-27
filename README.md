@@ -74,9 +74,9 @@
 
 ## 📫 Contact  
 
-📧 Email: [your@email.com](mailto:yashansh0497@gmail.com)  
+📧 Email: [yashansh0497@gmail.com](mailto:yashansh0497@gmail.com)  
 🌍 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
-🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/yashansh-yadav/)  
+🔗 LinkedIn: [https://www.linkedin.com/in/yashansh-yadav/](https://www.linkedin.com/in/yashansh-yadav/)  
 
 ---
 
