@@ -1,8 +1,8 @@
-# 📊 [Your Name] - Data Scientist & Analyst  
+# 📊 Yashansh Yadav - Data Scientist & Analyst  
 
-📍 Data Science | Machine Learning | Business Intelligence | SQL | Python  
+📊 Passionate Data Analyst | 📈 Aspiring Data Scientist | 🌐 Open to Opportunities  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) | 🏡 [Portfolio Website](https://yourwebsite.com) | 📩 [Email](mailto:your@email.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/yashansh-yadav/) | 🏡 [Portfolio Website](https://yourwebsite.com) | 📩 [Email](mailto:yashansh0497@gmail.com)
 
 ---
 
