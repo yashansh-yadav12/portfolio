@@ -19,11 +19,12 @@
 
 ## 📈 Featured Projects  
 
-### 🔹 [Customer Churn Prediction](https://github.com/yourusername/customer-churn)  
-**📌 Description:** Built a predictive model to analyze customer churn using **Random Forest & XGBoost**.  
-**📊 Tools Used:** Python, Pandas, Scikit-learn, Matplotlib, Power BI  
-**🔗 GitHub Repo:** [View Project](https://github.com/yourusername/customer-churn)  
-**📊 Live Dashboard:** [Power BI Dashboard](https://yourdashboard-link.com)  
+### 🔹 [Hotel Booking Ticket Cancellation Prediction](https://github.com/yashansh-yadav12/Hotel_booking_cancellation_Prediction)  
+**📌 Description:** Developed ETL Pipeline to get featurised data. Built various cross-validated ML models to get highest precision of around 0.84 for **Random Forest Model** for predictive modelling of cancellation of ticket.  
+**📊 Tools Used:** Python, Pandas, Scikit-learn, Matplotlib, Numpy  
+**🔗 GitHub Repo:** [View Project](https://github.com/yashansh-yadav12/Hotel_booking_cancellation_Prediction)    
+
+---
 
 ### 🔹 [Customer Churn Prediction](https://github.com/yourusername/customer-churn)  
 **📌 Description:** Built a predictive model to analyze customer churn using **Random Forest & XGBoost**.  
